@@ -1,0 +1,7 @@
+Nesta etapa aprendemos um pouco mais sobre:
+
+Pensamento Computacional
+Metodologias Ageis
+Introdução ao Git e GiHub
+
+E para finalizar criamos um primeiro repositorio como parte do primeiro desafio deste bootcamp.
